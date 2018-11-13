@@ -1,0 +1,14 @@
+img {
+ width:300px;
+}
+body{
+    background-image: url(https://ak9.picdn.net/shutterstock/videos/16061749/thumb/1.jpg);
+}
+ h1{
+ }
+  .artist {
+  text-decoration:overline;
+  }
+   .movie{
+  text-decoration:underline;
+   }
